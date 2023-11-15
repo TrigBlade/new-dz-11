@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: system-ui;
+    margin:0;
+}
+#box{
+    background-color: red;
+width: 75px ;
+height:50px ;
+margin-right: auto ;
+}
